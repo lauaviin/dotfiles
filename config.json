@@ -1,0 +1,210 @@
+{
+  "publicAddress": "",
+  "publicPort": 2001,
+  "game": {
+    "name": "okse",
+    "password": "",
+    "passwordAdmin": "keeks",
+    "admins": [
+      "12345678912345678"
+    ],
+    "scenarioId": "{3197BE0E6932DFAD}Missions/ConflictPVERemixedVanilla2_US4x.conf",
+    "maxPlayers": 24,
+    "visible": true,
+    "gameProperties": {
+      "disableThirdPerson": true
+    },
+    "mods": [
+            {
+                "modId": "65F838070D72ADA8",
+                "name": "Big Chungus Combined Arms",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "628729E87E79DA7F",
+                "name": "LinearConflictPVE",
+                "version": "1.3.4"
+            },
+            {
+                "modId": "60EAEA0389DB3CC2",
+                "name": "ACE Trenches",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5F2944B7474F043F",
+                "name": "Disable Game Master Budgets",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "60C4CE4888FF4621",
+                "name": "ACE Core",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5D0551624969C92E",
+                "name": "Zeliks Character",
+                "version": "1.1.19"
+            },
+            {
+                "modId": "59BA048FA618471A",
+                "name": "Shrapnel 1.2",
+                "version": "1.2.0"
+            },
+            {
+                "modId": "5965550F24A0C152",
+                "name": "Where Am I",
+                "version": "1.2.0"
+            },
+            {
+                "modId": "60E573C9B04CC408",
+                "name": "ACE Backblast",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "606C369BAC3F6CC3",
+                "name": "ACE Finger",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "64475DC102F2BDA4",
+                "name": "ACE Radio",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "613B4DD4A91CA144",
+                "name": "LM Suppression",
+                "version": "1.3.0"
+            },
+            {
+                "modId": "5D6EBC81EB1842EF",
+                "name": "Enfusion Persistence Framework",
+                "version": "0.6.13"
+            },
+            {
+                "modId": "62FCEB51DF8527B6",
+                "name": "Improved Blood Effect",
+                "version": "1.4.2"
+            },
+            {
+                "modId": "6174A376E06661BF",
+                "name": "Brutal Voices",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "61B514B96692C049",
+                "name": "ConflictPVERemixedVanilla2.0",
+                "version": "2.3.19"
+            },
+            {
+                "modId": "630CB4E012A56044",
+                "name": "Improved Blood Compatible",
+                "version": "1.0.9"
+            },
+            {
+                "modId": "65AD60E204191D37",
+                "name": "Realistic Combat Drones",
+                "version": "2.1.5"
+            },
+            {
+                "modId": "611CB1D409001EB0",
+                "name": "ACE Magazine Repack",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "60530B5164D03D65",
+                "name": "Expanded Soviet Uniforms",
+                "version": "1.0.6"
+            },
+            {
+                "modId": "5EB744C5F42E0800",
+                "name": "ACE Chopping",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5D6EA74A94173EDF",
+                "name": "Enfusion Database Framework",
+                "version": "0.6.7"
+            },
+            {
+                "modId": "62113AA293414DBA",
+                "name": "Keep Ragdoll Pose",
+                "version": "1.1.1"
+            },
+            {
+                "modId": "65B007413A813417",
+                "name": "FPV drones",
+                "version": "0.9.23"
+            },
+            {
+                "modId": "60C53A9372ED3964",
+                "name": "ACE Compass",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5C73156675E11A0F",
+                "name": "GM Persistent Loadouts",
+                "version": "1.0.18"
+            },
+            {
+                "modId": "61B7763A8AEB53B7",
+                "name": "ACE Explosives",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "6162B16A90F5FB3D",
+                "name": "1911A1",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "597C0CF3A7AA8A99",
+                "name": "BetterSounds 3.6",
+                "version": "3.6.22"
+            },
+            {
+                "modId": "60C4C12DAE90727B",
+                "name": "ACE Medical",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5964E0B3BB7410CE",
+                "name": "Game Master Enhanced",
+                "version": "1.3.4"
+            },
+            {
+                "modId": "59673B6FBB95459F",
+                "name": "BetterTracers 2.0",
+                "version": "2.0.11"
+            },
+            {
+                "modId": "59651354B2904BA6",
+                "name": "BetterHitsEffects 3.3",
+                "version": "3.3.0"
+            },
+            {
+                "modId": "5DBD560C5148E1DA",
+                "name": "ACE Carrying",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "62F802951CC8A37E",
+                "name": "ACE Tactical Periscope",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "646D52AF8BB3FF15",
+                "name": "ACE Captives",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "60C4E0B49618CC62",
+                "name": "ACE All in One",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "61226BB18D360BDD",
+                "name": "ACE Tactical Ladder",
+                "version": "1.3.2"
+            }
+        ]
+  }
+}
